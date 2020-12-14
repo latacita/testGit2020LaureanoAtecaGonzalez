@@ -22,3 +22,6 @@
 12                                  DatosPersonales -> Recursiva
 12                                  Antecedentes -> Fast-Forward
 13     add+commit
+14     merge Antecedentes
+15     merge DatosPersonales
+16     add+commit
