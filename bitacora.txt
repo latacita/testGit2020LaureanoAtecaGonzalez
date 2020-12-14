@@ -6,3 +6,8 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+10     checkout master
+11     push -u origin DatosPersonales
+12                                  DatosPersonales -> Recursiva
+12                                  Antecedentes -> Fast-Forward
+13     add+commit
