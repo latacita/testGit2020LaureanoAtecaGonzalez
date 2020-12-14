@@ -25,3 +25,10 @@
 14     merge Antecedentes
 15     merge DatosPersonales
 16     add+commit
+17     tag FusionTerminada
+18     push                        Se requiere pull
+18     pull                        Fusion recursiva con conflicto
+18     arreglo del fichero
+18     add+commit
+18     push + push --tags
+19     add+commit+push
