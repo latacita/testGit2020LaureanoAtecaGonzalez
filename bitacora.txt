@@ -1,11 +1,17 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre): Ateca González, Laureano             %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+
+01     clone
+02     checkout -b DatosPersonales
+03     -----
+04     -----
+05     add+commit
 06     checkout <identificador
        commit> Anhadir enunciado
 07     checkout -b Antecedentes
